@@ -2,18 +2,18 @@
 A Gen 1 Pokemon Pokedex Built with Jetpack Compose - WIP
 
 SUCCESSES:
-#_100% WORKING 
-    #_ADDED BASIC SEARCH CAPABILITY
-    #_APPLIED BASIC APPLICATION ICON
-    #_LOADS IMAGES ASYNCHRONOUSLY VIA COIL
-    #_DUPLICATE ITEMS IN DATABASE ARE OVERWRITTEN
-    #_CREATES INTERNAL LIST OF POKEMON [1-151] NO PROBLEM
-    #_SERIALIZES POKEMON DATA CLASSES VIA KOTLINX.SERIALIZER
-    #_VIEWMODEL KEEPS DATA CURRENT THROUGH CONFIGURATION CHANGES
-    #_VIEWMODEL IS PASSED AS ARGUMENT TO APP UI FOR EASY DATA RETRIEVAL
-    #_ADDED LOWER NAV BAR FOR ADDITIONAL CHOICES [DETAILS / SEARCH / QUIT]
-    #_SENDS GET REQUESTS TO [2] DIFFERENT APIS FOR DATA AND ICONS VIA RETROFIT
-    #_CLASS CONVERTER CREATED FOR HANDLING LIST & MAP STORAGE IN ROOM DATABASE
+    #_100% working 
+    #_added basic search capability
+    #_applied basic application icon
+    #_loads images asynchronously via coil
+    #_duplicate items in database are overwritten
+    #_creates internal list of pokemon [1-151] no problem
+    #_serializes pokemon data classes via kotlinx.serializer
+    #_viewmodel keeps data current through configuration changes
+    #_viewmodel is passed as argument to app ui for easy data retrieval
+    #_added lower nav bar for additional choices [details / search / quit]
+    #_sends get requests to [2] different apis for data and icons via retrofit
+    #_class converter created for handlinng list & map storage in room data base
     #_DOWLOADED DATA IS SAVED INTERNALLY UPON APPLICATION DESTRUCTION VIA ROOM DATABASE
     #_DATABASE CLASS CREATED USING SINGLETON METHOD & INITIALIZED UPON VIEWMODEL STARTUP
     #_CALLS TO THE DATABASE ARE MADE ASYNCHRONOUSLY IN ORDER TO OPERATE ON THE MAIN THREAD
