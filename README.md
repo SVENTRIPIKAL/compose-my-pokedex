@@ -2,7 +2,7 @@
 A Gen 1 Pokemon Pokedex Built with Jetpack Compose - WIP
 
 SUCCESSES:
-    #_100% working 
+    #_100% working
     #_added basic search capability
     #_applied basic application icon
     #_loads images asynchronously via coil
@@ -13,23 +13,24 @@ SUCCESSES:
     #_viewmodel is passed as argument to app ui for easy data retrieval
     #_added lower nav bar for additional choices [details / search / quit]
     #_sends get requests to [2] different apis for data and icons via retrofit
-    #_class converter created for handlinng list & map storage in room data base
-    #_DOWLOADED DATA IS SAVED INTERNALLY UPON APPLICATION DESTRUCTION VIA ROOM DATABASE
-    #_DATABASE CLASS CREATED USING SINGLETON METHOD & INITIALIZED UPON VIEWMODEL STARTUP
-    #_CALLS TO THE DATABASE ARE MADE ASYNCHRONOUSLY IN ORDER TO OPERATE ON THE MAIN THREAD
+    #_class converter created for handlinng list & map storage in room database
+    #_calls to database are made asynchronously in order to operate on the main thread
+    #_downloaded data is saved internally upon application destruction via room database
+    #_database class created using singleton method & initialized upon viewmodel startup
 
 
 ISSUES:
-    #_SCREEN ROTATION IS DEACTIVATED
-    #_RECONSTRUCT UI-STATE INTERFACE
-    #_POKEMON DESCRIPTION LANGUAGE CHANGE AFTER ID-151
-    #_APP MUST RESTART IF INTERNET ACCESS IS LOST DURING BUILD
-    #_ONLY 2/4 OF EACH ITEM'S INFORMATION IS BEING DISPLAYED / USED
+    #_screen rotation is deactivated
+    #_internet permissions prompt not implemented
+    #_reconstruction of ui-state interface is needed
+    #_pokemon description language change after id-151
+    #_only 2/4 of each item's information is being displayed / used
+    #_app must restart if internet access is lost during first build
 
 
 TO-DOS:
-    #_ADD ADDITIONAL POKEMON TO THE LIST [1-500]
-    #_ADD "ALLOW INTERNET PERMISSIONS" UPON APP INITIAL STARTUP
-    #_CONSTRUCT THE UI DETAILS PAGE TO DISPLAY INFORMATION NOT BEING USED
-    #_IMPLEMENT ADDITIONAL JSON SERIALIZERS FOR DESCRIPTION LANGUAGE CHANGES
-    #_APPLY SCREEN ORIENTATIONS FOR HANDLING VARIOUS SCREEN SIZES AND ROTATIONS
+    #_add additional pokemon to the list [1-500]
+    #_add "allow internet permissions" upon initial app startup
+    #_construct the ui details page to display information not being shown
+    #_implement additional json serializers for description language changes
+    #_apply screen orientation handling for various screen sizes & rotations
