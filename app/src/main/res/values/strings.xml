@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PokedexApp</string>
+    <string name="pokeball_sprite">pokéball</string>
+    <string name="pokemon_title_string">Pokémon</string>
+    <string name="pokemon_height">HT</string>
+    <string name="pokemon_weight">WT</string>
+    <string name="info_top_bar">INFO</string>
+    <string name="english_top_bar">ENG</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+    <string name="building_pokedex">Building Pokédex…</string>
+    <string name="unexpected_error_please_restart_the_app">Unexpected Error - Please Restart The App</string>
+    <string name="arrow">arrow</string>
+    <string name="quit">Quit</string>
+    <string name="search">Search</string>
+    <string name="details">Details</string>
+</resources>
