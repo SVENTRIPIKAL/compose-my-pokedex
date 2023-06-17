@@ -1,8 +1,8 @@
 # compose-my-pokedex
- A Gen 1 Pokemon Pokedex Built with Jetpack Compose - WIP
+A Gen 1 Pokemon Pokedex Built with Jetpack Compose - WIP
 
 SUCCESSES:
-    #_100% WORKING 
+#_100% WORKING 
     #_ADDED BASIC SEARCH CAPABILITY
     #_APPLIED BASIC APPLICATION ICON
     #_LOADS IMAGES ASYNCHRONOUSLY VIA COIL
