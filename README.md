@@ -1,5 +1,5 @@
 # compose-my-pokedex
-A Gen 1 Pokemon Pokedex Built with Jetpack Compose – WIP
+A Gen 1 Pokemon Pokedex Built with Android Jetpack Compose – WIP
 
 SUCCESSES: 
     –––#_100% working
