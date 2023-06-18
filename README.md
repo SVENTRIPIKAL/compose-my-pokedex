@@ -2,6 +2,9 @@
 ## Jetpack Compose Project – WIP
 
 A Generation I Pokémon Pokédex Built with [Android Jetpack Compose](https://developer.android.com/jetpack/compose) & [Kotlin](https://kotlinlang.org/) &nbsp;
+
+
+
 ## Features
 - Search functionality
 - Generation IV Johto pokédex design
@@ -9,8 +12,19 @@ A Generation I Pokémon Pokédex Built with [Android Jetpack Compose](https://de
 - All 151 Gen 1 pokémon general stat information
 - Collects pokémon data & large sprites from [PokéAPI](https://pokeapi.co/)
 - Collects pokémon mini-sprites from [Pokémon Database](https://pokemondb.net/sprites) &nbsp;
-
 &nbsp;
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Application UI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inspiration Snapshot
+<img src="https://drive.google.com/uc?id=1OuLGphwkmVRZkiWWTjTSFP7J9WG_WYux"
+     alt="Main UI"
+     style="display: block; margin-right: auto; margin-left: auto;width: 250px;height: 540px;object-fit: fill;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" 
+/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://drive.google.com/uc?id=1fY1D1BajTERJJGim0bMKgzoGLKJB-UCt"
+     alt="Inspiration Snapshot"
+     style="display: block; margin-right: auto; margin-left: auto; width: 250px;height: 540px;object-fit: fill;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" 
+/>
 
 ##### Progress:
 - 100% working
