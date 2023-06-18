@@ -16,12 +16,12 @@ A Generation I Pokémon Pokédex Built with [Android Jetpack Compose](https://de
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Application UI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inspiration Snapshot
 <img src="https://drive.google.com/uc?id=1OuLGphwkmVRZkiWWTjTSFP7J9WG_WYux"
-     alt="Main UI"
+     alt="app-ui"
      style="display: block; margin-right: auto; margin-left: auto;width: 250px;height: 540px;object-fit: fill;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" 
 />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://drive.google.com/uc?id=1fY1D1BajTERJJGim0bMKgzoGLKJB-UCt"
-     alt="Inspiration Snapshot"
+     alt="inspiration-snapshot"
      style="display: block; margin-right: auto; margin-left: auto; width: 250px;height: 540px;object-fit: fill;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" 
 />
@@ -41,7 +41,10 @@ A Generation I Pokémon Pokédex Built with [Android Jetpack Compose](https://de
 - class converter created for handlinng list & map storage in room database 
 - calls to database are made asynchronously in order to operate on the main thread
 - database class created using singleton method & initialized upon viewmodel startup
-- downloaded data is saved internally upon application destruction via room database &nbsp;
+- downloaded data is saved internally upon application destruction via room database
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![app-gif](https://github.com/SVENTRIPIKAL/compose-my-pokedex/assets/90730468/c9188166-9e03-4dc4-9f52-dd19eb8d8692)
 
 ##### Issues:
 - screen rotation is deactivated 
