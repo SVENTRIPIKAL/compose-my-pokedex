@@ -11,7 +11,7 @@ A Generation I Pokémon Pokédex Built with [Android Jetpack Compose](https://de
 - Collects pokémon mini-sprites from [Pokémon Database](https://pokemondb.net/sprites) &nbsp;
 &nbsp;
 
-##### Successes:
+##### Progress:
 - 100% working
 - added basic search capability 
 - applied basic application icon 
