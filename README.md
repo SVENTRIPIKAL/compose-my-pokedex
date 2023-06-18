@@ -9,6 +9,7 @@ A Generation I Pokémon Pokédex Built with [Android Jetpack Compose](https://de
 - All 151 Gen 1 pokémon general stat information
 - Collects pokémon data & large sprites from [PokéAPI](https://pokeapi.co/)
 - Collects pokémon mini-sprites from [Pokémon Database](https://pokemondb.net/sprites) &nbsp;
+
 &nbsp;
 
 ##### Progress:
@@ -42,6 +43,7 @@ A Generation I Pokémon Pokédex Built with [Android Jetpack Compose](https://de
 - construct the ui details page to display information not being shown 
 - apply screen orientation handling for various screen sizes & rotations
 - implement additional json serializers for description language changes &nbsp;
+
 &nbsp;
 
 ## Dependencies
