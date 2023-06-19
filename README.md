@@ -39,7 +39,7 @@ A Generation I Pokémon Pokédex Built with [Android Jetpack Compose](https://de
 - viewmodel is passed as argument to app ui for easy data retrieval 
 - added lower nav bar for additional choices [details / search / quit] 
 - sends get requests to [2] different apis for data and icons via retrofit 
-- class converter created for handlinng list & map storage in room database 
+- class converter created for handling list & map storage in room database 
 - calls to database are made asynchronously in order to operate on the main thread
 - database class created using singleton method & initialized upon viewmodel startup
 - downloaded data is saved internally upon application destruction via room database &nbsp;
