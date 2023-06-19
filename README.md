@@ -1,5 +1,5 @@
 # COMPOSE-MY-POKEDEX:
-## Jetpack Compose Project – WIP
+### Jetpack Compose Project – WIP
 
 A Generation I Pokémon Pokédex Built with [Android Jetpack Compose](https://developer.android.com/jetpack/compose) & [Kotlin](https://kotlinlang.org/) &nbsp;
 
@@ -14,12 +14,13 @@ A Generation I Pokémon Pokédex Built with [Android Jetpack Compose](https://de
 - Collects pokémon mini-sprites from [Pokémon Database](https://pokemondb.net/sprites) &nbsp;
 &nbsp;
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Application UI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inspiration Snapshot
+### Application UI
 <img src="https://drive.google.com/uc?id=1OuLGphwkmVRZkiWWTjTSFP7J9WG_WYux"
      alt="app-ui"
      style="display: block; margin-right: auto; margin-left: auto;width: 250px;height: 540px;object-fit: fill;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" 
-/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+/>
+### Inspiration Snapshot
 <img src="https://drive.google.com/uc?id=1fY1D1BajTERJJGim0bMKgzoGLKJB-UCt"
      alt="inspiration-snapshot"
      style="display: block; margin-right: auto; margin-left: auto; width: 250px;height: 540px;object-fit: fill;
@@ -41,9 +42,9 @@ A Generation I Pokémon Pokédex Built with [Android Jetpack Compose](https://de
 - class converter created for handlinng list & map storage in room database 
 - calls to database are made asynchronously in order to operate on the main thread
 - database class created using singleton method & initialized upon viewmodel startup
-- downloaded data is saved internally upon application destruction via room database
+- downloaded data is saved internally upon application destruction via room database &nbsp;
+&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![app-gif](https://github.com/SVENTRIPIKAL/compose-my-pokedex/assets/90730468/c9188166-9e03-4dc4-9f52-dd19eb8d8692)
 
 ##### Issues:
