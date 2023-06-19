@@ -11,7 +11,8 @@ A Generation I Pokémon Pokédex Built with [Android Jetpack Compose](https://de
 - Dual upper/lower UI on a single screen
 - All 151 Gen 1 pokémon general stat information
 - Collects pokémon data & large sprites from [PokéAPI](https://pokeapi.co/)
-- Collects pokémon mini-sprites from [Pokémon Database](https://pokemondb.net/sprites) &nbsp;
+- Collects pokémon mini-sprites from [Pokémon Database](https://pokemondb.net/sprites)
+- And more to come &nbsp;
 &nbsp;
 
 #### Application UI
