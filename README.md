@@ -1,9 +1,9 @@
 # COMPOSE-MY-POKEDEX:
 ### Jetpack Compose Project – WIP
 
-A Generation I Pokémon Pokédex Built with [Android Jetpack Compose](https://developer.android.com/jetpack/compose) & [Kotlin](https://kotlinlang.org/) &nbsp;
+A Generation I Pokémon Pokédex Built with [Android Jetpack Compose](https://developer.android.com/jetpack/compose) & [Kotlin](https://kotlinlang.org/)  &nbsp;
 
-
+![app-gif](https://github.com/SVENTRIPIKAL/compose-my-pokedex/assets/90730468/c9188166-9e03-4dc4-9f52-dd19eb8d8692)
 
 ## Features
 - Search functionality
@@ -14,20 +14,20 @@ A Generation I Pokémon Pokédex Built with [Android Jetpack Compose](https://de
 - Collects pokémon mini-sprites from [Pokémon Database](https://pokemondb.net/sprites) &nbsp;
 &nbsp;
 
-### Application UI
+#### Application UI
 <img src="https://drive.google.com/uc?id=1OuLGphwkmVRZkiWWTjTSFP7J9WG_WYux"
      alt="app-ui"
      style="display: block; margin-right: auto; margin-left: auto;width: 250px;height: 540px;object-fit: fill;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" 
 />
-### Inspiration Snapshot
+#### Inspiration Snapshot
 <img src="https://drive.google.com/uc?id=1fY1D1BajTERJJGim0bMKgzoGLKJB-UCt"
      alt="inspiration-snapshot"
      style="display: block; margin-right: auto; margin-left: auto; width: 250px;height: 540px;object-fit: fill;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" 
 />
 
-##### Progress:
+## Progress:
 - 100% working
 - added basic search capability 
 - applied basic application icon 
@@ -45,9 +45,7 @@ A Generation I Pokémon Pokédex Built with [Android Jetpack Compose](https://de
 - downloaded data is saved internally upon application destruction via room database &nbsp;
 &nbsp;
 
-![app-gif](https://github.com/SVENTRIPIKAL/compose-my-pokedex/assets/90730468/c9188166-9e03-4dc4-9f52-dd19eb8d8692)
-
-##### Issues:
+## Issues:
 - screen rotation is deactivated 
 - reconstruction of ui-state interface is needed
 - internet permissions prompt not implemented 
@@ -55,7 +53,7 @@ A Generation I Pokémon Pokédex Built with [Android Jetpack Compose](https://de
 - app must restart if internet access is lost during first build
 - only 2/4 of each item's information is being displayed / used &nbsp;
 
-##### To-Dos:
+## To-Dos:
 - add additional pokemon to the list [1-500] 
 - add "allow internet permissions" upon initial app startup 
 - construct the ui details page to display information not being shown 
@@ -64,7 +62,7 @@ A Generation I Pokémon Pokédex Built with [Android Jetpack Compose](https://de
 
 &nbsp;
 
-## Dependencies
+# Dependencies
 - [Coil](https://coil-kt.github.io/coil/compose/) - An image loading library for Android backed by Kotlin Coroutines.
 - [Retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and Java.
 - [Kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Compiler plugin that generates visitor code for serializable classes.
