@@ -21,7 +21,7 @@ interface PokedexNetworkRepository {
 // val descriptionApi = "https://pokeapi.co/api/v2/pokemon-species/<id>"
 
 
-private const val baseUrl = " https://pokeapi.co/api/v2/"
+private const val baseUrl = "https://pokeapi.co/api/v2/"
 
 private val json = Json { ignoreUnknownKeys=true }
 
