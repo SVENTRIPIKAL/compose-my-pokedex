@@ -1,7 +1,7 @@
 # COMPOSE-MY-POKEDEX:
 ### Jetpack Compose Project – WIP
 
-A Generation I Pokémon Pokédex Built with [Android Jetpack Compose](https://developer.android.com/jetpack/compose) & [Kotlin](https://kotlinlang.org/)  &nbsp;
+A Generation I Pokémon Pokédex App Built with [Android Jetpack Compose](https://developer.android.com/jetpack/compose) & [Kotlin](https://kotlinlang.org/)  &nbsp;
 
 ![app-gif](https://github.com/SVENTRIPIKAL/compose-my-pokedex/assets/90730468/c9188166-9e03-4dc4-9f52-dd19eb8d8692)
 
