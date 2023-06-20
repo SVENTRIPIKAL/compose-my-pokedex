@@ -16,7 +16,7 @@ A Generation I Pokémon Pokédex App Built with [Android Jetpack Compose](https:
 &nbsp;
 
 #### Application UI
-<img src="https://drive.google.com/uc?id=1OuLGphwkmVRZkiWWTjTSFP7J9WG_WYux"
+<img src="https://drive.google.com/uc?id=1OTWQ5VGJ5Rq3gz1rbJb0qJLjIl9Lbs6O"
      alt="app-ui"
      style="display: block; margin-right: auto; margin-left: auto;width: 250px;height: 540px;object-fit: fill;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" 
