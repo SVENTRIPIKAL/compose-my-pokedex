@@ -1,8 +1,7 @@
-# COMPOSE-MY-POKEDEX:
-### Jetpack Compose Project –– WIP
+# COMPOSE-MY-POKEDEX
 
-Currently a Generation-I Pokémon Pokédex Based on the Generation-IV Upgraded Johto Design |\
-Built with [Android Jetpack Compose](https://developer.android.com/jetpack/compose) & [Kotlin](https://kotlinlang.org/)  &nbsp;
+Currently a Gen-1 Pokémon Pokédex Based on the Gen-4 Upgraded Johto Design |\
+Built with [Android Jetpack Compose](https://developer.android.com/jetpack/compose) & [Kotlin](https://kotlinlang.org/) –– WIP &nbsp;
 
 ![app-gif](https://github.com/SVENTRIPIKAL/compose-my-pokedex/assets/90730468/c9188166-9e03-4dc4-9f52-dd19eb8d8692)
 
