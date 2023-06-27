@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PokedexApp</string>
+    <string name="app_name">ComposeMyPokedex</string>
     <string name="pokeball_sprite">pokéball</string>
     <string name="pokemon_title_string">Pokémon</string>
     <string name="pokemon_height">HT</string>
